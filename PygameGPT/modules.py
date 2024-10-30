@@ -174,7 +174,6 @@ def smoothMove(current_pos: tuple, target_pos: tuple, speed: float):
         return [current_pos[0] + dx / distance * speed, current_pos[1] + dy / distance * speed]  # Liste statt Tupel zurückgeben
     return list(target_pos)  # Auch hier eine Liste zurückgeben
 
-
 #set a frame rate limiter
 def limitFPS(clock: pygame.time.Clock, target_fps: int):
     clock.tick(target_fps)
