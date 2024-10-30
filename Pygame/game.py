@@ -1,6 +1,7 @@
 #This code uses classes, complex logic and collisions (complex for beginners)
 #still I tried to write the code easier. Thats why it is very long
 #If it is too hard to understand check out the 'example.py' file
+#Credit: https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
 
 
 import pygame, random
