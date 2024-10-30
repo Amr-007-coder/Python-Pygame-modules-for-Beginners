@@ -76,7 +76,7 @@ def getRandomPosition(area: pygame.Rect):
     return x, y
 
 
-#return value of an expression (not very neccessary funtcion but could help beginners)
+#return value of an expression (not very neccessary function but could help beginners)
 def returnValue(expression):
     if expression:
         return True
