@@ -20,7 +20,7 @@ active_button_img = pygame.image.load("images/active_button.png").convert_alpha(
 button_actions = {
     "start": False,
     "y": False,
-    "z": False,
+    "z": True,
 }
 
 progress = 0
