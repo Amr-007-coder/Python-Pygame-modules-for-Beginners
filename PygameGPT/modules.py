@@ -1,7 +1,6 @@
-#This module pack is made for beginners to pygame who want to create a first simple project
+#This module pack is the same one from Pygame/modules.py but here I asked ChatGPT to add usefull functions
 #Before using make sure to have pygame installed
-#For an example of how to use look in the 'example.py' file (or look at a whole example game in 'game.py')
-#This code was all self written by me so if you're going to publish a project using this modules pack I would be happy if you mention it
+#For an example of how to use ChatGPT created a project in 'gpt.py'
 #credit : https://github.com/Amr-007-coder/Python-Pygame-modules-for-Beginners
 
 import pygame, random, math
